@@ -1,2 +1,2 @@
 # WebDClones
-Cloning Websites
+This repository will contain Website Clones.
